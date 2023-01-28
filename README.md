@@ -10,6 +10,6 @@ This spider can be useful for anyone looking to collect and analyze data from th
 The scrapy spider is built to extract the blog post information including the title, author, date, e.tc.. 
 The spider is also able to follow the links on the website and scrape multiple pages of blog posts.
 
-The project also includes a requirements.txt file that contains the necessary dependencies, and a brief instruction on how to run the spider in your local machine. The scraped data can be saved in CSV file, json or any other data format you have chosen.
+The scraped data can be saved in CSV file, json or any other data format you have chosen.
 
 Feel free to use the code as a reference for your own web scraping projects, and to make any changes as you see fit.
